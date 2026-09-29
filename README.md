@@ -69,3 +69,9 @@ Visit **`http://localhost:3000/api/seed`** once to populate demo users, posts, g
 5. Deploy, then hit `https://<your-app>.vercel.app/api/seed` once to seed production data.
 
 > **Note on Google login:** real Google sign-in is gated to `@dtu.ac.in` emails. For demos, use the one-click Demo Login (credentials-based) — it needs no Google setup.
+
+---
+
+## Author
+
+**Arpan Ailawadi** B.Tech, Electronics and Communication Engineering, Delhi Technological University [LinkedIn](https://www.linkedin.com/in/arpan-ailawadi/)
